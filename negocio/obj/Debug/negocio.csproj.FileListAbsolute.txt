@@ -1,0 +1,9 @@
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\negocio\bin\Debug\negocio.dll
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\negocio\bin\Debug\negocio.pdb
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\negocio\bin\Debug\Dominio.dll
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\negocio\bin\Debug\Dominio.pdb
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\negocio\obj\Debug\negocio.dll
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\negocio\obj\Debug\negocio.pdb

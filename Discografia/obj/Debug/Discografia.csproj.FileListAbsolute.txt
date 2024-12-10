@@ -1,0 +1,16 @@
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\Discografia\bin\Debug\Discografia.exe.config
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\Discografia\bin\Debug\Discografia.exe
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\Discografia\bin\Debug\Discografia.pdb
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\Discografia\obj\Debug\Discografia.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\Discografia\obj\Debug\Discografia.Form1.resources
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\Discografia\obj\Debug\Discografia.Properties.Resources.resources
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\Discografia\obj\Debug\Discografia.csproj.GenerateResource.cache
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\Discografia\obj\Debug\Discografia.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\Discografia\obj\Debug\Discografia.exe
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\Discografia\obj\Debug\Discografia.pdb
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\Discografia\bin\Debug\Dominio.dll
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\Discografia\bin\Debug\negocio.dll
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\Discografia\bin\Debug\Dominio.pdb
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\Discografia\bin\Debug\negocio.pdb
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\Discografia\obj\Debug\Discografia.csproj.CopyComplete
+C:\Users\facun\OneDrive\Escritorio\Maxiprograma\Nivel 2\ConeccionesDB\Discografia\Discografia\obj\Debug\Discografia.frmAltaDIsco.resources
